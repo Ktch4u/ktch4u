@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" width="40" height="180" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
+<img align="center" width="350" height="180" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
     
  
 <a href="https://github.com/Ktch4u">
