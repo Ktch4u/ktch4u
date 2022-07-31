@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="600" height="400" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
+<img align="center" width="800" height="400" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
 </div>
 
 <div align="center">
