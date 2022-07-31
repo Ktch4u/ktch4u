@@ -1,3 +1,11 @@
+# Hello, my name is Matheus Felipe Pacheco
+If you're wondering what the name of this profile is (Ktch4u), don't worry, I'm not the real lightning mcqueen, I just got the nickname Ktchau in my graduation.
+
+I'm currently working as a space systems analyst at SAIPHER ATC, in research and development of solutions for the aerospace sector.
+
+I'm also passionate about programming and currently learning and developing my skills in the field of data analysis and AI
+
+I use this profile as my portfolio and also to post personal projects. Feel free to contact me with any questions or improvements regarding my code or to develop a collaborative project.
 
 <div>
 <img align="center" width="350" height="180" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
