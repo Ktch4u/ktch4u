@@ -1,12 +1,11 @@
-<div align="center">
-<img align="center" width="850" height="400" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
-</div>
 
-  ##
+<div>
+<img align="center" width="400" height="180" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
+    
+ 
+<a href="https://github.com/Ktch4u">
   
-<div align="center">
-  <a href="https://github.com/Ktch4u">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ktch4u&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ktch4u&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
