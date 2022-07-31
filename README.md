@@ -1,4 +1,6 @@
-
+<div align="center">
+<img align="center" width="1000" height="400" src="https://raw.githubusercontent.com/ktch4u/ktch4u/mainnbou/gif.gif">
+</div>
 
 <div align="center">
   <a href="https://github.com/Ktch4u">
